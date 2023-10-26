@@ -1,0 +1,7 @@
+[branch "main"]
+	mergeoptions = --squash
+[init]
+	defaultBranch = main
+[user]
+	email = 15658969+myAinsel@users.noreply.github.com
+	name = Ainsel
