@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Bitwarden
+Type=Application
+Exec=/home/morgan/bin/bitwarden
+Icon=/home/morgan/.local/share/icons/misc/bitwarden-64x64.png
+Terminal=False
